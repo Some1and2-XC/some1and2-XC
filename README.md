@@ -14,5 +14,3 @@ I'm a cool guy working on cool projects, HMU for colab
  - BTC is prefered for Commisions
 
 ---
-
-Email: [04x0xx@gmail.com](url)
