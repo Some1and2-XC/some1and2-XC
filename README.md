@@ -1,6 +1,6 @@
 # *@some1and2*'s Profile
-## Student Studying IT Data Analytics looking for a python3 Specialist Job
-### Key Skills with Practical Applications
+## IT Data Analytist
+### Key Skills
  - HTML5
     - In depth Understanding of the different ways to format web pages and use different CSS attributes for effective website design
  - CSS
