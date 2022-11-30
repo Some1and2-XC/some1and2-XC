@@ -13,4 +13,4 @@
  - Databases
     - Familiar relational databases and building data visualisations for both the structure of the database (ERD) as well as the contents of the data. 
     - Can design databases around the needs of the business and business rules that govern the kind of data that can be allowed to exist
-    - Fluent in SLQ with experience Designing Relational Databases
+    - Fluent in SQL with experience Designing Relational Databases
