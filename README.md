@@ -1,4 +1,5 @@
 # *@some1and2*'s Profile
+![Github Stats](https://github-readme-stats.vercel.app/api?username=some1and2-xc&theme=radical&show_icons=true_)
 ## IT Data Analytist
 ### Key Skills
  - HTML5
