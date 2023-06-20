@@ -2,12 +2,16 @@
 ## IT Data Analytist
 ### Projects
  - Python3
-    - Used python for [beautiful mathematical rendering](https://github.com/some1and2-xc/Kyros).
+    - Used python for [beautiful mathematical fractal rendering](https://github.com/some1and2-xc/Kyros).
     - Translated [code for machine learning image classification to python with numpy](https://github.com/Some1and2-XC/MNIST-Image-Classification).
     - Wrote a version of the [Wave Function Collapse Algorithm](https://github.com/Some1and2-XC/WFC-v1).
     - Wrote my favorite library ever for [indexing nested dictionaries with lists](https://github.com/Some1and2-XC/Lindex) `pip install Lindex`.
     - Wrote [inefficient file backup software with python](https://github.com/Some1and2-XC/Backup-Proj).
     - Wrote a [terrible discord bot for community engagement](https://github.com/Some1and2-XC/some1and2-s-Discord-Bot).
+    - Wrote a [clean version of tetris with python turtles](https://github.com/Some1and2-XC/turtle-tetris). 
+    - Wrote a [clean version of battle ship with python turtles](https://github.com/Some1and2-XC/turtle-battle-ship).
+    - Wrote a [version of minesweeper with python turtles](https://github.com/Some1and2-XC/turtle-minesweeper).
+    - 
  - Full Stack
     - Used Docker Compose to make a [demo stack for serving a website](https://github.com/Some1and2-XC/docker-compose-network). 
  - R
