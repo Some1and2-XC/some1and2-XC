@@ -7,8 +7,8 @@
     - Experience setting up websites currently in production using the flask framework.
     - Used python for [beautiful mathematical rendering](https://github.com/some1and2-xc/Kyros).
     - Translated [code for machine learning image classification to python with numpy](https://github.com/Some1and2-XC/MNIST-Image-Classification).
-    - Wrote a version of [Wave Function Collapse Algorithm](https://github.com/Some1and2-XC/WFC-v1).
-    - Wrote my favorite library ever for [indexing nested dictionaries as string](https://github.com/Some1and2-XC/Lindex) `pip install Lindex`.
+    - Wrote a version of the [Wave Function Collapse Algorithm](https://github.com/Some1and2-XC/WFC-v1).
+    - Wrote my favorite library ever for [indexing nested dictionaries with lists](https://github.com/Some1and2-XC/Lindex) `pip install Lindex`.
     - Wrote [inefficient file backup software with python](https://github.com/Some1and2-XC/Backup-Proj).
     - Wrote a [terrible discord bot for community engagement](https://github.com/Some1and2-XC/some1and2-s-Discord-Bot).
  - SQL ( Databases )
