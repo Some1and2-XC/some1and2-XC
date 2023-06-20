@@ -21,7 +21,7 @@
     - Started to rewrite Kyros [the python math fractal render in rust](https://github.com/Some1and2-XC/Kyros-in-rust).
  - SQL
     - Who makes entire projects with SQL?
-### Skills
+### Languages
  - Python3
     - Expert level Python3 knowledge with an in depth knowledge of a vast array of different data types and data structures and functionality.
     - Deep Knowledge of specific python notations that assist with code organization and readability ( OOP / class based programming, function wrappers etc)
