@@ -11,7 +11,8 @@
     - Wrote a [clean version of tetris with python turtles](https://github.com/Some1and2-XC/turtle-tetris). 
     - Wrote a [clean version of battle ship with python turtles](https://github.com/Some1and2-XC/turtle-battle-ship).
     - Wrote a [version of minesweeper with python turtles](https://github.com/Some1and2-XC/turtle-minesweeper).
-    - 
+    - Attempted to write an [Implimentation of the SHA256 HASH Algorithm](https://github.com/Some1and2-XC/SHA256-in-python).
+    - Wrote a version of [petals around the rose in python](https://github.com/Some1and2-XC/petals-around-the-rose-python) with image generation and CLI version. 
  - Full Stack
     - Used Docker Compose to make a [demo stack for serving a website](https://github.com/Some1and2-XC/docker-compose-network). 
  - R
