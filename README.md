@@ -18,7 +18,9 @@
  - R
     - Wrote an R Script to [compare classification capabilities of ML algorithms](https://github.com/Some1and2-XC/R-ML-Classification-Comparison).
  - Rust
-    - Started to rewrite Kyros [the python math fractal render in rust](https://github.com/Some1and2-XC/Kyros-in-rust). 
+    - Started to rewrite Kyros [the python math fractal render in rust](https://github.com/Some1and2-XC/Kyros-in-rust).
+ - SQL
+    - Who makes entire projects with SQL?
 ### Skills
  - Python3
     - Expert level Python3 knowledge with an in depth knowledge of a vast array of different data types and data structures and functionality.
