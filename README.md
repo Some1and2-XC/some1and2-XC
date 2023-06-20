@@ -11,7 +11,7 @@
  - Full Stack
     - Used Docker Compose to make a [demo stack for serving a website](https://github.com/Some1and2-XC/docker-compose-network). 
  - R
-    - Wrote an R Script to [compare classification capabilities of algorithms](https://github.com/Some1and2-XC/R-ML-Classification-Comparison).
+    - Wrote an R Script to [compare classification capabilities of ML algorithms](https://github.com/Some1and2-XC/R-ML-Classification-Comparison).
  - Rust
     - Started to rewrite Kyros [the python math fractal render in rust](https://github.com/Some1and2-XC/Kyros-in-rust). 
 ### Skills
