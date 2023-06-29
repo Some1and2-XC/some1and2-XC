@@ -29,7 +29,7 @@
  - SQL ( Databases )
     - Familiar relational databases and building data visualisations for both the structure of the database (ERD) as well as the contents of the data. 
     - Experience designing relational databases to fit data requirements.
-    - Experience setting up a MySQL server in a docker-compose context.
+    - Experience setting up a MySQL server.
  - R
     - Experience using R for Data Visualizations
     - Experience using R for generating ML models for ML classification.
