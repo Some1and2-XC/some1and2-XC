@@ -36,7 +36,9 @@
     - Experience using R ML models to find 
  - Rust
     - Just started first project in rust.
-    - Starting to rewrite old projects in rust, seeking performance wins in [Kyros](https://github.com/some1and2-xc/Kyros). 
+    - Starting to rewrite old projects in rust, seeking performance wins in [Kyros](https://github.com/some1and2-xc/Kyros).
+ - Java
+    - Learned Java in College. Can write basic UI's with it as well as impliment logic. 
  - HTML5
     - In depth Understanding of the different ways to format web pages and use different CSS attributes for effective website design
  - CSS
