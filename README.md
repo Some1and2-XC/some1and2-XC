@@ -45,4 +45,4 @@
     - Knowledge of using CSS attributes and classes to format web pages
     - Experience using bootstrap for web formatting
  - JavaScript
-    - I'd rather not
+    - Functional amounts of Svelte
