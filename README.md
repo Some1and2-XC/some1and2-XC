@@ -1,48 +1,11 @@
-# *@some1and2*'s Profile
-## IT Data Analytist
-### Projects
- - Python3
-    - Used python for [beautiful mathematical fractal rendering](https://github.com/some1and2-xc/Kyros).
-    - Translated [code for machine learning image classification to python with numpy](https://github.com/Some1and2-XC/MNIST-Image-Classification).
-    - Wrote a version of the [Wave Function Collapse Algorithm](https://github.com/Some1and2-XC/WFC-v1).
-    - Wrote my favorite library ever for [indexing nested dictionaries with lists](https://github.com/Some1and2-XC/Lindex) `pip install Lindex`.
-    - Wrote [inefficient file backup software with python](https://github.com/Some1and2-XC/Backup-Proj).
-    - Wrote a version of [petals around the rose in python](https://github.com/Some1and2-XC/petals-around-the-rose-python) with image generation and CLI version. 
-    - Wrote a [clean version of tetris with python turtles](https://github.com/Some1and2-XC/turtle-tetris). 
-    - Wrote a [terrible discord bot for community engagement](https://github.com/Some1and2-XC/some1and2-s-Discord-Bot).
-    - Wrote a [clean version of battle ship with python turtles](https://github.com/Some1and2-XC/turtle-battle-ship).
-    - Wrote a [version of minesweeper with python turtles](https://github.com/Some1and2-XC/turtle-minesweeper).
-    - Attempted to write an [Implimentation of the SHA256 HASH Algorithm](https://github.com/Some1and2-XC/SHA256-in-python).
- - Full Stack
-    - Used Docker Compose to make a [demo stack for serving a website](https://github.com/Some1and2-XC/docker-compose-network). 
- - R
-    - Wrote an R Script to [compare classification capabilities of ML algorithms](https://github.com/Some1and2-XC/R-ML-Classification-Comparison).
- - Rust
-    - Started to rewrite Kyros [the python math fractal render in rust](https://github.com/Some1and2-XC/Kyros-in-rust).
- - SQL
-    - Who makes entire projects with SQL?
-### Languages
- - Python3
-    - Expert level Python3 knowledge with an in depth knowledge of a vast array of different data types and data structures and functionality.
-    - Deep Knowledge of specific python notations that assist with code organization and readability ( OOP / class based programming, function wrappers etc)
-    - Experience setting up websites currently in production using the flask framework.
- - SQL ( Databases )
-    - Familiar relational databases and building data visualisations for both the structure of the database (ERD) as well as the contents of the data. 
-    - Experience designing relational databases to fit data requirements.
-    - Experience setting up a MySQL server.
- - R
-    - Experience using R for Data Visualizations
-    - Experience using R for generating ML models for ML classification.
-    - Experience using R ML models to find 
- - Rust
-    - Just started first project in rust.
-    - Starting to rewrite old projects in rust, seeking performance wins in [Kyros](https://github.com/some1and2-xc/Kyros).
- - Java
-    - Learned Java in College. Can write basic UI's with it as well as impliment logic. 
- - HTML5
-    - In depth Understanding of the different ways to format web pages and use different CSS attributes for effective website design
- - CSS
-    - Knowledge of using CSS attributes and classes to format web pages
-    - Experience using bootstrap for web formatting
- - JavaScript
-    - Functional amounts of Svelte
+# *@some1and2*'s - the IT Data Analyst & cool guy
+### Fun Facts!:
+ - Can operate a keyboard!
+ - Have used a JSON of JSONs as a DBMS
+ - Made a flask server have 20s+ response time
+ - Can operate a keyboard!
+ - Made a pull request with broken SQL
+ - Spent 10h+ trying to use the google gmail API just for a friend to solve the problem in 15minutes with outlook
+ - Made a PNG with 17,179,869,184 pixels (131,072x131,072) using a single thread (using [this](https://github.com/Some1and2-XC/kyros-core))
+ - Can operate a keyboard!
+ - Have a file on my computer called `hey_are_you_configing_mssqlsvr_with_anything.txt`
